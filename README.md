@@ -1,4 +1,4 @@
-# morningprojectalpha
+# The Morning Project
 
 This is where Morning Project lives
 
